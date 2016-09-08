@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
